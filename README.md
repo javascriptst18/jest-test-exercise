@@ -17,8 +17,8 @@ Gör sedan dina **assertions** baserat på dessa punkter.
 ## Installation
 
 ```bash
-git clone https://github.com/javascriptst18/testing-exercise
-cd unit-test-exercise
+git clone https://github.com/javascriptst18/jest-test-exercise
+cd jest-test-exercise
 yarn #or npm i
 ```
 
@@ -61,4 +61,4 @@ test('returns all todos', () => {
 
 ## Solution
 
-Exempel på hur detta kan lösa finns under branchen [`solution`](https://github.com/javascriptst18/testing-exercise/tree/solution)
+Exempel på hur detta kan lösa finns under branchen [`solution`](https://github.com/javascriptst18/jest-test-exercise/tree/solution)
