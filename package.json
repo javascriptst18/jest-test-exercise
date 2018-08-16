@@ -1,0 +1,14 @@
+{
+  "name": "unit-test-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jesper Orb <jesperorb@gmail.com> (https://jesperorb.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "22.0.4"
+  },
+  "scripts": {
+    "test" : "jest",
+    "test:watch" : "jest --watchAll"
+  }
+}
